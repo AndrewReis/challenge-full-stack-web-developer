@@ -39,18 +39,15 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/AndrewReis/>
+$ git clone <https://github.com/AndrewReis/challenge-full-stack-web-developer>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd 
+$ cd challenge-full-stack-web-developer
 ```
 
 ### 🎲 Rodando o Back End (servidor)
 
 ```bash
-
-# Vá para a pasta backend
-$ cd 
 
 # Instale as dependências
 $ npm install
