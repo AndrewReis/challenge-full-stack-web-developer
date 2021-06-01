@@ -67,15 +67,15 @@ volumes:
 
 <h1 id='tecnologias'> 🤖 Tecnologias e Libs </h1>
 
-**Node.js**
-**Vue.js**
-**BootsTrapVue**
+- **Node.js**
+- **Vue.js**
+- **BootsTrapVue**
 
-**Express**: Uma biblioteca que facilita a criação do nosso servidor.
-**UUID**: É responsável pela criação de id's unicos e comparação se uma string do tipo UUID.
-**TypeORM**: ORM que intermedializa nossa comunicação com o PostgreSQL (ou qualquer outro banco).
-**Typescript**: Superset de javascript. Trás como sua principal feature o uso de tipagems de variáveis.
-**PostgreSQL**: Banco de Dados escolhido para persistir nossos dados.
+- **Express**: Uma biblioteca que facilita a criação do nosso servidor.
+- **UUID**: É responsável pela criação de id's unicos e comparação se uma string do tipo UUID.
+- **TypeORM**: ORM que intermedializa nossa comunicação com o PostgreSQL (ou qualquer outro banco).
+- **Typescript**: Superset de javascript. Trás como sua principal feature o uso de tipagems de variáveis.
+- **PostgreSQL**: Banco de Dados escolhido para persistir nossos dados.
 
 ---
 
