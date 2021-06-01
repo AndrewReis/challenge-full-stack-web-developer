@@ -128,3 +128,17 @@ Classes de nível superior não devem depender diretamente de outras classes de 
 Esse princípio defende o uso de polimorfismo, assim como usamos no princípio anterior, para estabelecer que um objeto pode ser substituído por qualquer outro do mesmo tipo sem danificar o comportamento da aplicação.
 
 Já que estamos utilizando TypeScript com suporte às interfaces, o mesmo já vai nos avisar de qualquer erro ferindo esse princípio.
+
+---
+
+# Features não implementadas no Front-end
+
+- Atualização de usuários.
+- Validação de formulário.
+
+# Features não implementadas no back-end
+
+- Login administrativo 
+- TDD
+- Validação nas requests
+- Geração JWT
